@@ -1,6 +1,6 @@
 Github Actions Declarative Configuration
 ========================================
-Changed
+Changed again
 
 This project explores configuring a continuous integration workflow using [Github Actions](https://github.com/features/actions). Actions are configured using declarative YAML config file. Github provides an [introduction to Actions](https://docs.github.com/en/actions/learn-github-actions/introduction-to-github-actions).
 
